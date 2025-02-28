@@ -12,7 +12,7 @@
 ```javascript
 const skills = {
     languages: ['JavaScript', 'Python', 'C++', 'C', 'C#', 'ROS'],
-    markup languages: ['XML', 'HTML']
+    markup languages: ['XML', 'HTML'],
     frameworks: ['React', 'Next.js', 'Node.js', 'FastAPI'],
     platforms: ['GitHub', 'Docker', 'GitLab', 'VisualStudio Code', 'XCode'],
 };
@@ -40,13 +40,12 @@ Developed an embedded real-time communication protocol with RTOS using a heartbe
 - Adapted to high turnover rate by designing training sessions to onboard members efficiently, fostering skills in simulation development and maintaining project continuity
 
 ### Rosie's Place
-- Regular volunteer at Rosie's Place, a women's shelter in the Boston area
-- Assisting the guidance of corporate volunteer events to maximize efficiency and alleviate confusion to shelter visitors
+- Volunteer at Rosie's Place, a women's shelter in the Boston area
+- Guided corporate volunteer events to maximize efficiency and alleviate confusion to shelter visitors
 
 ## 🎯 Professional Goals
 - Advancing in software development roles
 - Continuous learning and skill development in latest technologies
-- Advancing towards a future of solar system colonization and pioneering space flight technologies
 
 ## 📬 Connect With Me
 - **LinkedIn**: [in/zoe-cheimets](https://linkedin.com/in/zoe-cheimets)
@@ -54,4 +53,4 @@ Developed an embedded real-time communication protocol with RTOS using a heartbe
 - **Portfolio**: [zcheimets.github.io](https://zcheimets.github.io)
 
 ---
-*Code Meets Cosmos, Crafting Our Space Future* 🚀
+*Engineering the Future, Pioneering the Stars* 🚀
