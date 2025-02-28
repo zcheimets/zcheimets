@@ -26,6 +26,11 @@ Parametric C# simulation for client ICON's Project Olympus, assessesing efficien
 
 ## 🎖️ Leadership & Community Impact
 
+### Code Sensei at CodeNinjas - Waltham/Newton
+- Working with students ages 5-14, developing software engineering skills
+- Guiding students through the CodeNinjas curriculum in MakeCode, Unity, and Roblox
+- Creating a curriculum in software and hardware development, curated for each class's needs
+
 ### Project Lead at University of Michigan's Bioastronautics and Life Support Systems
 - Directed a 10-member team of new and veteran software engineers
 - Parametric C# simulation for client ICON's Project Olympus, assessesing efficiency and risk of autonomous operations on a 3D printed lunar base
