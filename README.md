@@ -24,9 +24,12 @@ const skills = {
 Parametric C# simulation for client ICON's Project Olympus, assessesing efficiency and risk of autonomous operations on a 3D printed lunar base
 <!-- - **GitHub**: [View Project](https://github.com/Vets-Who-Code/VetsAI) -->
 
-### NASA Jet Propulsion Laboratory
+### NASA Jet Propulsion Laboratory - Mars Sample Return Mission
 Developed an embedded real-time communication protocol with RTOS using a heartbeat aliveness check via TCP/UDP network programming, enhancing asynchronous, multi-threaded task handling to boost system efficiency and reliability
 <!-- TODO: add more projects and connect the repos to it-->
+
+### VataVerks
+Enhancing internal firmware to automate product programming, resulting in a 70% increase in efficiency.
 
 ## 🎖️ Leadership & Community Impact
 
