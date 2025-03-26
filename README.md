@@ -22,7 +22,10 @@ const skills = {
 ## 🚀 Key Projects
 
 ### VataVerks
-Develop and maintain C-based firmware using CMSIS and STM32 drivers for an internal-use board that automates programming and testing of water and gas measurement sensors.
+Develop and maintain C-based firmware using CMSIS and STM32 drivers for an internal-use board that automates programming and testing of water and gas measurement sensors
+
+### [Freelance Web Development](https://github.com/zcheimets/turkey-hill-ragtime-orchestra)
+Develop websites free of charge for small businesses, collaborating with clients to bring their vision to fruition
 
 ### Bioastronautics and Life Support Systems
 Parametric C# simulation for client ICON's Project Olympus, assessesing efficiency and risk of autonomous operations on a 3D printed lunar base
@@ -31,9 +34,6 @@ Parametric C# simulation for client ICON's Project Olympus, assessesing efficien
 ### NASA Jet Propulsion Laboratory - Mars Sample Return Mission
 Developed an embedded real-time communication protocol with RTOS using a heartbeat aliveness check via TCP/UDP network programming, enhancing asynchronous, multi-threaded task handling to boost system efficiency and reliability
 <!-- TODO: add more projects and connect the repos to it-->
-
-### VataVerks
-Enhancing internal firmware to automate product programming, resulting in a 70% increase in efficiency.
 
 ## 🎖️ Leadership & Community Impact
 
