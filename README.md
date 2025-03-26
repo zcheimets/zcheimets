@@ -11,14 +11,18 @@
 ## 🛠️ Technical Stack
 ```javascript
 const skills = {
-    languages: ['JavaScript', 'Python', 'C++', 'C', 'C#', 'ROS'],
-    markup languages: ['XML', 'HTML'],
-    frameworks: ['React', 'Next.js', 'Node.js', 'FastAPI'],
-    platforms: ['GitHub', 'Docker', 'GitLab', 'VisualStudio Code', 'XCode'],
+    languages: ['JavaScript', 'Python', 'C++', 'C', 'C#', 'ROS', 'Bash', 'TypeScript', 'SQL'],
+    embedded development: ['STM32', 'CMSIS', 'UART', 'DMA', 'Interrupts', 'Peripheral Configuration'],
+    web development: ['React.js', 'Node.js', 'MongoDB', 'HTML', 'CSS', 'XML', 'REST APIs'],
+    tools/platforms: ['GitHub', 'Docker', 'VS Code', 'XCode', 'STM32CubeIDE', 'Jira', 'Unity', 'Linux', 'GDB']
 };
+
 ```
 
 ## 🚀 Key Projects
+
+### VataVerks
+Develop and maintain C-based firmware using CMSIS and STM32 drivers for an internal-use board that automates programming and testing of water and gas measurement sensors.
 
 ### Bioastronautics and Life Support Systems
 Parametric C# simulation for client ICON's Project Olympus, assessesing efficiency and risk of autonomous operations on a 3D printed lunar base
@@ -51,9 +55,9 @@ Enhancing internal firmware to automate product programming, resulting in a 70% 
 - Continuous learning and skill development in latest technologies
 
 ## 📬 Connect With Me
-- **LinkedIn**: [in/zoe-cheimets](https://linkedin.com/in/zoe-cheimets)
+- **LinkedIn**: [zoe-cheimets](https://linkedin.com/in/zoe-cheimets)
 - **Email**: zoe.cheimets@gmail.com
-- **Portfolio**: [zcheimets.github.io](https://zcheimets.github.io)
+- **Portfolio**: [zcheimets.github.io](https://zoecheimets.com)
 
 ---
 *Engineering the Future, Pioneering the Stars* 🚀
